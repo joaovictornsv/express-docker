@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" height=100/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=100/>
 <img src="https://iconsplace.com/wp-content/uploads/_icons/ffa500/256/png/plus-2-icon-11-256.png" height=50/>
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height=100/>
 
